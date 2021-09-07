@@ -1,0 +1,6 @@
+.MuiCheckbox-colorPrimary {
+    color: #0060bf;
+}
+.MuiCheckbox-colorPrimary.Mui-checked {
+    color: #0060bf;
+}

@@ -1,0 +1,84 @@
+{
+  "common": {
+    "tel": "Số điện thoại",
+    "job_title": "Chức vụ",
+    "created_at": "Ngày tạo",
+    "updated_at": "Ngày cập nhật",
+    "update": "cập nhật"
+  },
+  "toolbar": {
+    "create": "Thêm mới",
+    "back": "Trở lại",
+    "trash": "Thùng rác",
+    "checked": "Đã chọn"
+  },
+  "article_screen": {
+    "title": "Tiêu đề",
+    "category": "Danh mục",
+    "is_public": "Hiển thị"
+  },
+  "audit_screen": {
+    "auditable_type": "Loại dữ liệu",
+    "event": "Hành động",
+    "user": "Người thay đổi",
+    "created_at": "Thời gian"
+  },
+  "document_screen": {
+    "title": "Tiêu đề",
+    "issue_date": "Ngày ban hành",
+    "is_valid": "Hiệu lực"
+  },
+  "front_setting_screen": {
+    "address_footer": "Địa chỉ",
+    "contact_hotline": "Số điện thoại",
+    "contact_mail": "Email",
+    "fax_footer": "Số Fax",
+    "building_footer": "Tòa nhà",
+    "is_default": "Sử dụng"
+  },
+  "login_screen": {
+    "btn_login": "Đăng nhập",
+    "btn_forgot": "Quên mật khẩu"
+  },
+  "user_screen": {
+    "user_name": "Tên đăng nhập",
+    "full_name": "Tên đầy đủ",
+    "user_type": "Loại tài khoản",
+    "department": "Phòng ban",
+    "role": "Nhóm người dùng"
+  },
+  "role_screen": {
+    "name": "Tên nhóm người dùng"
+  },
+  "settlement": {
+    "wait":"Quyết toán chờ gửi",
+    "expertise":"Quyết toán chờ thẩm định",
+    "approval":"Quyết toán chờ phê duyệt",
+    "approved":"Quyết toán đã phê duyệt",
+    "reject":"Quyết toán bị từ chối",
+    "type": "Loại quyết toán",
+    "unit": "Đơn vị",
+    "settlement_period": "Quý",
+    "settlement_year": "Năm",
+    "registration_date": "Ngày nộp",
+    "agreement_date": "Ngày thẩm định",
+    "approved_date": "Ngày phê duyệt"
+  },
+  "labor_support_screen": {
+    "unit": "Đơn vị",
+    "period": "Quý",
+    "year": "Năm",
+    "registration_date": "Ngày nộp",
+    "agreed_date": "Ngày thẩm định",
+    "approved_date": "Ngày phê duyệt",
+    "reason": "Lý do",
+    "labor": "Người lao động"
+  },
+  "Support_request_screen":{
+    "wait":"Yêu cầu chờ gửi",
+    "expertise":"Yêu cầu chờ thẩm định",
+    "approval":"Yêu cầu chờ phê duyệt",
+    "approved":"Yêu cầu đã phê duyệt",
+    "reject":"Yêu cầu bị từ chối"
+  }
+}
